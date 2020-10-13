@@ -1,2 +1,2 @@
-# rock-paper-scissors
-A simple Rock-Paper-Scissors implementation using Javascript and the console as an interface. Part of The Odin Project.
+#Rock Paper Scissors (with basic UI)
+A simple Rock-Paper-Scissors implementation using vanilla JS, HTML and CSS.
